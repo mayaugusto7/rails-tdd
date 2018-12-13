@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="ruby@ssh://vagrant@127.0.0.1:2222/home/vagrant/.rvm/rubies/ruby-2.5.1/bin/ruby" />
+      </list>
+    </list>
+  </component>
+</project>
