@@ -7,7 +7,7 @@ class Calculator
     number1 * number2
   end
 
-  def slice(number1, number2)
+  def div(number1, number2)
     number1 / number2
   end
 end

@@ -7,15 +7,15 @@
     <content url="file://$MODULE_DIR$/../../exemplo_rspec_tdd">
       <sourceFolder url="file://$MODULE_DIR$/../../exemplo_rspec_tdd/spec" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="Remote-rbenv: ruby-2.3.3-p222" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.2, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.8.0, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.8.0, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.8.2, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.8.0, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.8.0, Remote-rbenv: ruby-2.5.3p105 ( revision 65156)-p105) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.8.0, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.8.0, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.8.2, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.8.0, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.8.0, Remote-rbenv: ruby-2.3.3-p222) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="1" string0="$MODULE_DIR$/../../exemplo_rspec_tdd/lib" />
